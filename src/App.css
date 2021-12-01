@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.foodList{
+  display: grid;
+}
+
+.AddFoodForm{
+  border: 1px solid black;
+  width: 400px;
+  margin-bottom: 20px;
+  padding: 10px;
+}

@@ -54,7 +54,7 @@ export default function AddFoodForm(props){
         onChange={handleInput} />
         <br/>
 
-        <button >Submit</button>
+        <button>Submit</button>
       </form>
     </div>
   );
